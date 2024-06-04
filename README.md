@@ -4,6 +4,8 @@
 
 The goal of this project is to understand and apply the basic principles of robust control design using MATLAB/Simulink and relevant toolboxes. The system considered is a linearized model of a highly agile air-to-air missile for a given flight condition. This type of model is common in aerospace applications and approximates the pitch axis, short period flight dynamics of the missile for a fixed operating point. This project involves various stages of controller design and tuning, aiming to enhance model performance while respecting robustness constraints.
 
+![Missile profile](missile profile.png)
+
 ## Objectives
 
 1. **System Modeling**: Develop a linearized model of the missile and its actuator.
